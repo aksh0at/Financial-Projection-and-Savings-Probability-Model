@@ -1,0 +1,2 @@
+# Financial-Projection-and-Savings-Probability-Model
+**Financial Projection Model**    This report analyzes a 5-year financial outlook for an individual earning ₹50,000 monthly, factoring in inflation, expenses, and investments. It highlights how disciplined saving and adaptability can ensure financial stability, offering insights into managing risks and achieving growth despite economic challenges.
